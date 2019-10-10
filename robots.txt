@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://acheigoog.wgylovewxj.top/sitemap.xml
